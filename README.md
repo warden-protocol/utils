@@ -8,9 +8,9 @@ It includes helper scripts, images, templates, and other resources that support 
 
 ## 📁 Contents
 
-- `scripts/` – Reusable scripts for common tasks (e.g., automation, testing, CI/CD support).
-- `images/` – Logos, diagrams, and other visual assets.
-- `templates/` – Boilerplate files, config templates, and markdown/doc formats.
+- `scripts/` – Reusable scripts for common tasks
+- `images/` – Common utility docker images
+- `templates/` – Boilerplate files, config templates etc..
 - `tools/` – Standalone tools or helper binaries.
 
 ---
