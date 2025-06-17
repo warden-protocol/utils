@@ -1,4 +1,3 @@
-# Use official Node.js LTS Alpine image for small footprint
 FROM node:lts-alpine
 
 # Install bash and other dependencies
